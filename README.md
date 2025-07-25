@@ -7,7 +7,7 @@
 🔹 E-Mail IDs of Contributors :
 
 **Contributors:**  
-- 🧑‍💻 [Mail to : Adhishthan Ashok](mailto:veerundraveeru3446@gmail.com)  
+- 🧑‍💻 [Mail to : Ch.veerndra](mailto:veerundraveeru3446@gmail.com)  
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
